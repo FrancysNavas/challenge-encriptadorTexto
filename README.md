@@ -8,7 +8,8 @@ Este challenge es parte del programa #ONE Oracle y Alura Latam.
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/05fd3f78-6240-40dc-97bd-8c6d90c56ee3)
+![pantalla1](https://github.com/user-attachments/assets/5ffc82eb-634f-4cd1-865c-aa85fc1a43fa)
+
 
 
 
